@@ -1,4 +1,4 @@
-## Intro to Python
+## Python essentials
 
 This course covers the fundamentals of Python programming, from data types to
 exceptions. All topics are demonstrated through simple and straightforward
