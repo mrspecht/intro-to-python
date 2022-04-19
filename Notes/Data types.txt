@@ -1,0 +1,34 @@
+Data types
+
+  Numbers
+    Integer, float, complex
+  Sequences
+    String, list, tuple
+  Set
+  Dictionary
+  Boolean
+
+
+  Mutable vs immutable
+    Everything in Python is an object. And what every newcomer to Python should
+    quickly learn is that all objects in Python can be either mutable or
+    immutable. Immutable objects doesn’t allow modification after creation
+
+    Mutable and immutable objects are handled differently in Python. Immutable
+    objects are quicker to access and are expensive to change because it
+    involves the creation of a copy
+
+    Numbers (int, float, and complex), strings, tuples, and booleans are
+    immutable, which means their contents can't be altered after creation
+
+    We can use the built-in functions id() and type() to compare objects
+
+
+  Docstrings
+    Python documentation strings (or docstrings) provide a convenient way of
+    associating documentation with Python modules, functions, classes, and
+    methods
+
+    It’s specified in source code that is used, like a comment, to document a
+    specific segment of code. Unlike conventional source code comments, the
+    docstring should describe what the function does, not how

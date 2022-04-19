@@ -1,0 +1,7 @@
+Classes
+
+	Object-oriented programming is one of the most effective approaches to
+	writing software. In object-oriented programming we write classes that
+	represent real-world things and situations, and we create objects (instances)
+	based on these classes. When we write a class, we define the general
+	behaviour that a whole category of objects can have

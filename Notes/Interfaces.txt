@@ -1,0 +1,7 @@
+Interfaces (abstract classes)
+
+	At a high level, an interface acts as a blueprint for designing classes. Like
+	classes, interfaces define methods. Unlike classes, these methods are
+	abstract. An abstract method is one that the interface simply defines. It
+	doesn’t implement the methods. This is done by classes, which then implement
+	the interface and give concrete meaning to the interface’s abstract methods
