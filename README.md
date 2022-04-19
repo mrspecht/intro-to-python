@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mrspecht/mrspecht/main/assets/python.png" alt="Python" style="width: 100px">
-  <h2 style="margin-top: 12px;">Python in action</h2>
+  <img src="https://raw.githubusercontent.com/mrspecht/mrspecht/main/assets/python.png" alt="Python" style="width: 100px;">
+  <h2 style="margin-top: 12px !important;">Python in action</h2>
 </div>
 
 
