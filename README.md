@@ -1,5 +1,11 @@
 ## Python in action
 
+This introductory course covers the fundamentals of Python programming, from
+data types to exceptions. The topics are developed through simple and easy to
+understand examples.
+
+### What is Python?
+
 Python is a high-level, general-purpose programming language. It is notorious
 for having a very simple "pseudocode-like" syntax that places emphasis on
 readability and expressiveness. This not only makes code simpler to write but
@@ -20,7 +26,6 @@ Python also supports multiple paradigms, such as the following:
 - Functional programming
 - Imperative programming
 - Procedural programming
-
 
 ### Useful links
 
