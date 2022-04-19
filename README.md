@@ -1,4 +1,4 @@
-## Python in action
+## Intro to Python
 
 This course covers the fundamentals of Python programming, from data types to
 exceptions. All topics are demonstrated through simple and straightforward
