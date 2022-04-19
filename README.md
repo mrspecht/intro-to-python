@@ -1,8 +1,8 @@
 ## Python in action
 
-This introductory course covers the fundamentals of Python programming, from
-data types to exceptions. The topics are developed through simple and easy to
-understand examples.
+This course covers the fundamentals of Python programming, from data types to
+exceptions. All topics are demonstrated through simple and straightforward
+examples.
 
 ### What is Python?
 
