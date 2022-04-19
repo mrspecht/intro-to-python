@@ -1,4 +1,8 @@
-## Python in action
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mrspecht/mrspecht/main/assets/python.png" alt="Python">
+  <h2>Python in action</h2>
+</div>
+
 
 Python is a high-level, general-purpose programming language. It is notorious
 for having a very simple "pseudocode-like" syntax that places emphasis on
