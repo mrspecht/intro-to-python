@@ -29,9 +29,11 @@ Python also supports multiple paradigms, such as the following:
 
 ### Useful links
 
-- [Documentation](https://docs.python.org/3/index.html)
+- [Download Python](https://www.python.org/downloads/)
+- [Installation and setup guide](https://realpython.com/installing-python/)
 - [Python tutorial](https://www.pythontutorial.net/)
 - [Learn Python programming](https://www.programiz.com/python-programming)
 - [Real Python tutorials](https://realpython.com/)
+- [Documentation](https://docs.python.org/3/index.html)
 - [Style guide](https://www.python.org/dev/peps/pep-0008/)
 - [Packages](https://pypi.org/)
